@@ -24,4 +24,5 @@ function openGallery(type) {
 
 function closeGallery() {
   document.getElementById("gallery").classList.add("hidden");
+
 }
